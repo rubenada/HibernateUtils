@@ -1,2 +1,2 @@
 # HibernateUtils
-Hibernate Utils
+Some utility classes for Java Hibernate
